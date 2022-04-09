@@ -1,0 +1,101 @@
+/* mediaQuery = 922 */
+
+@media (max-width:1199px) {
+     .navbar-brand-custom {
+          font-size: 30px;
+     }
+     .nav-item {
+          margin-left: 20px;
+     }
+     .nav-link-custom {
+          font-size: 18px;
+     }
+     .header-intro__text {
+          font-size: 60px;
+     }
+     /* about */
+     .about-text {
+          font-size: 32px;
+     }
+     .about-left__text {
+          font-size: 28px;
+          letter-spacing: 3px;
+     }
+     .about-left__p {
+          font-size: 17px;
+          letter-spacing: 1px;
+     }
+     /* our skills */
+     .our-skills__title {
+          font-size: 32px;
+     }
+     .our-skills__text {
+          padding-bottom: 90px;
+     }
+     /* our works */
+     .our-works__title {
+          font-size: 32px;
+     }
+     .our-works__text {
+          padding-bottom: 90px;
+     }
+     /* our works process */
+     .our-work-process__title {
+          font-size: 32px;
+     }
+     .our-works-process__text {
+          padding-bottom: 90px;
+     }
+     /* customers */
+     .customers__title {
+          font-size: 32px;
+          padding-bottom: 24px;
+     }
+     .customers__text {
+          padding-bottom: 70px;
+     }
+     /* contact */
+     .contact__title {
+          font-size: 32px;
+          padding-bottom: 24px;
+     }
+     .contact__text {
+          padding-bottom: 70px;
+     }
+}
+
+@media (max-width:991px) {
+     /* header */
+     .navbar-collapse {
+          position: absolute;
+          top: 64px;
+          left: 0;
+          width: 100%;
+          background-color: #fff;
+          border-radius: 12px;
+     }
+     .header-intro__text {
+          font-size: 48px;
+          letter-spacing: 6px;
+     }
+     .header-intro__p {
+          font-size: 18px;
+     }
+     .header-intro {
+          padding-top: 50px;
+          justify-content: unset;
+     }
+     /* about us */
+     .about-left__text {
+          text-align: center;
+     }
+     /* contact */
+     .contact-title {
+          width: 100%;
+          
+     }
+}
+
+@media (max-width:700px) {
+     
+}
